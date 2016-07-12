@@ -1,0 +1,25 @@
+{
+  "name": "william",
+  "version": "1.0.0",
+  "description": "testing the vs code with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williammw/vstest.git"
+  },
+  "author": "WilliamWong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williammw/vstest/issues"
+  },
+  "homepage": "https://github.com/williammw/vstest#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "cheerio": "^0.20.0",
+    "consolidate": "^0.14.1",
+    "express": "^4.14.0"
+  }
+}
