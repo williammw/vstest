@@ -1,1 +1,4 @@
-alert("hello world")
+$(function(){
+
+    console.log("ready");
+})
